@@ -3,7 +3,7 @@
 This is a simple Python project to verify you have python installed. 
 
 ## Write your code
-1. In `main.py`, under the `src/` directory fill in the `hello_world()` function to print "Hello, World!".
+1. In `main.py`, define a `hello_world()` function to print "Hello, World!".
 
 ## How to Run
 
@@ -13,11 +13,6 @@ This is a simple Python project to verify you have python installed.
 ```bash
 python main.py
 ```
+OR
 
-## Testing
-
-To verify the functionality, run the tests using:
-
-```bash
-python -m unittest discover tests
-```
+press the Play button in your IDE.
