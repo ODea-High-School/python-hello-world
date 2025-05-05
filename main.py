@@ -1,9 +1,8 @@
-def hello_world():
+def main():
     # Write your code here to print "Hello, World!"
 
-
-    # End of your code
     return
 
+
 if __name__ == "__main__":
-    hello_world()
+    main()

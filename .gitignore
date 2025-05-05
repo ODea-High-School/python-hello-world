@@ -23,6 +23,3 @@ htmlcov/
 
 # PyCharm
 .idea/
-
-# VS Code
-.vscode/
